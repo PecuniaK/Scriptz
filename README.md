@@ -15,12 +15,6 @@ Download the latest release from [here](https://github.com/PecuniaK/Scriptz/rele
 Compatible from Windows XP through 10.
 
 
-## Screencaps
-
-![img] (https://imgur.com/skLw3Hi)
-
-![img] (https://imgur.com/oKawb0K)
-
 
 ## Build Instructions
 
